@@ -13,6 +13,8 @@
 ![LINUX](https://img.shields.io/badge/-Linux-05151e?style=for-the-badge&logo=Linux)
 ![SQLite](https://img.shields.io/badge/-SQLite-05151e?style=for-the-badge&logo=SQLite)
 ![POSTGRESQL](https://img.shields.io/badge/-Postgresql-05151e?style=for-the-badge&logo=Postgresql)
+![Grafana](https://img.shields.io/badge/-grafana-05151e?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-prometheus-05151e?style=for-the-badge&logo=prometheus)
 ![BASH](https://img.shields.io/badge/-Bash-05151e?style=for-the-badge&logo=Bash)
 ![JAVA](https://img.shields.io/badge/-java-05151e?style=for-the-badge&logo=java)
 
