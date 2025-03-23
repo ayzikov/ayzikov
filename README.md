@@ -1,5 +1,5 @@
 ### Hi there 👋, I'ｍ　Ｎｉｋｉｔａ
-#### Python backend developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+developer)](https://git.io/typing-svg)
 ![𝕁𝕦𝕟𝕚𝕠𝕣(python backend) 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣](https://get.wallhere.com/photo/space-space-art-digital-art-colorful-1583641.jpg)
 
 ### Skills:
